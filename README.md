@@ -1,2 +1,2 @@
 # DSA
-Collection of all the Asa problems I'm hoping to solve.
+Collection of all the dsa problems I'm hoping to solve.

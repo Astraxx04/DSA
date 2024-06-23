@@ -14,6 +14,7 @@ public class Fibonacci {
         int a=0, b=1, count=2;
         while(count <= num){
             fib = a+b;
+            System.out.println(fib);
             a = b;
             b = fib;
             count++;

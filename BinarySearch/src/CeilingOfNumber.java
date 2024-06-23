@@ -3,7 +3,7 @@ public class CeilingOfNumber {
     public static void main(String[] args) {
         int arr1[] = {2,4,6,7,9,12,23,33};
         int arr2[] = {99,34,23,12,8,7,3,1};
-        int target = 34;
+        int target = 7;
         System.out.println(orderAgnosticBS(arr1, target));
     }
 
